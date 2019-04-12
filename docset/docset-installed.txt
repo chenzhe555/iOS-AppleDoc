@@ -1,0 +1,4 @@
+Documentation set was installed to Xcode!
+
+Path: /Users/yunshan/Desktop/Project/iOS/iOS-AppleDoc/docs/com.陈哲是个好孩子.appledoc.AppleDoc.docset
+Time: 2019-04-12 02:26:43 +0000
